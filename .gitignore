@@ -2,3 +2,5 @@
 /dubbo-samples-annotation
 /dubbo-samples-spring-xml
 /dubbo-samples-api
+/dubbo-samples-spring-boot/target
+/dubbo-samples-spring-boot/.vscode
